@@ -1,7 +1,7 @@
 #ifndef FATHER_H
 #define FATHER_H
 #include"Father.h"
-#include<string.h>
+#include<string>
 class Father
 {
 private:
